@@ -45,64 +45,64 @@ MonoBehaviour:
     m_List:
     - stateName: disabled
       animationStateStartValue:
-        x: 0
-        y: 0
-        z: 0
+        x: 26.5426
+        y: 26.5426
+        z: 26.5426
       animationStateEndValue:
-        x: 0
-        y: 0
-        z: 0
+        x: 26.5426
+        y: 26.5426
+        z: 26.5426
     - stateName: idle
       animationStateStartValue:
-        x: 0.5
-        y: 0.5
-        z: 0.5
+        x: 26.5426
+        y: 26.5426
+        z: 26.5426
       animationStateEndValue:
-        x: 0.5
-        y: 0.5
-        z: 0.5
+        x: 26.5426
+        y: 26.5426
+        z: 26.5426
     - stateName: hovered
       animationStateStartValue:
-        x: 0.5
-        y: 2
-        z: 0.5
+        x: 30
+        y: 30
+        z: 30
       animationStateEndValue:
-        x: 0.5
-        y: 2
-        z: 0.5
+        x: 30
+        y: 30
+        z: 30
     - stateName: hoveredPriority
       animationStateStartValue:
-        x: 0.5
-        y: 2
-        z: 0.5
+        x: 26.5426
+        y: 26.5426
+        z: 26.5426
       animationStateEndValue:
-        x: 0.5
-        y: 2
-        z: 0.5
+        x: 26.5426
+        y: 26.5426
+        z: 26.5426
     - stateName: selected
       animationStateStartValue:
-        x: 0.5
-        y: 2
-        z: 0.5
+        x: 26.5426
+        y: 26.5426
+        z: 26.5426
       animationStateEndValue:
-        x: 0.5
-        y: 2
-        z: 0.5
+        x: 26.5426
+        y: 26.5426
+        z: 26.5426
     - stateName: activated
       animationStateStartValue:
-        x: 0.5
-        y: 2
-        z: 0.5
+        x: 26.5426
+        y: 26.5426
+        z: 26.5426
       animationStateEndValue:
-        x: 0.5
-        y: 2
-        z: 0.5
+        x: 26.5426
+        y: 26.5426
+        z: 26.5426
     - stateName: focused
       animationStateStartValue:
-        x: 0.5
-        y: 0.5
-        z: 0.5
+        x: 26.5426
+        y: 26.5426
+        z: 26.5426
       animationStateEndValue:
-        x: 0.5
-        y: 0.5
-        z: 0.5
+        x: 26.5426
+        y: 26.5426
+        z: 26.5426

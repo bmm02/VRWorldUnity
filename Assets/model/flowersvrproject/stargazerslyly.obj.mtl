@@ -1,0 +1,66 @@
+
+newmtl Flat_FF8899
+Kd  1 0.5333334 0.6
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 0
+
+
+
+
+newmtl Flat_3E722B
+Kd  0.2431373 0.4470588 0.1686275
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 0
+
+
+
+
+newmtl Flat_FFA3C3
+Kd  1 0.6392157 0.7647059
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 0
+
+
+
+
+newmtl Flat_FECDCF
+Kd  0.9960784 0.8039216 0.8117647
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 0
+
+
+
+
+newmtl Flat_B5CD91
+Kd  0.7098039 0.8039216 0.5686275
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 0
+
+
+
+
+newmtl Flat_DE5F7A
+Kd  0.8705882 0.372549 0.4784314
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 0
+
+
+
