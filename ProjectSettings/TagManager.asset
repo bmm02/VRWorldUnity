@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Dark
+  - Key
   layers:
   - Default
   - TransparentFX

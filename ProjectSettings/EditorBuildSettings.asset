@@ -14,9 +14,15 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/HandsDemo.unity
     guid: f98d2985cb30cb341ac2f4656022634a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/testinggrabnclimb.unity
     guid: e3d45546fc9df49c6acf55fb9c5e2da0
+  - enabled: 1
+    path: Assets/Scenes/DarkEnvironment.unity
+    guid: f6c42b986dab94ddc99477ee7358be9f
+  - enabled: 1
+    path: Assets/Scenes/LightEnvir1.unity
+    guid: 66660a0ffbf5f4a569a3aaa0ee9db503
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 105531a4185503541a7ab33a6ef1b6da, type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 07b61e89487cfd344bca84e2e8dffb8e, type: 2}
